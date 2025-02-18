@@ -76,3 +76,14 @@ sed 's/^/./'
 
 -->
 
+<br>
+<br>
+<br>
+
+<h6 align="center">kindly for hackers</h6>
+
+
+<div align="center">
+  <a href="https://github.com/1hehaq"><img src="https://img.icons8.com/material-outlined/20/808080/github.png" alt="GitHub"></a>
+  <a href="https://twitter.com/1hehaq"><img src="https://img.icons8.com/material-outlined/20/808080/twitter.png" alt="X"></a>
+</div>
